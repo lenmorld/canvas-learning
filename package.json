@@ -1,0 +1,12 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lenmorld/canvas-learning.git",
+  "author": "lenmorld <lenmorld@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel matrix/index.html",
+    "build": "parcel build matrix/index.html"
+  }
+}

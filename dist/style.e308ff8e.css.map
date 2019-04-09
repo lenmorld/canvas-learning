@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..\\matrix","sourcesContent":["/*basic reset*/\r\n* {margin: 0; padding: 0;}\r\n/*adding a black bg to the body to make things clearer*/\r\nbody {background: black;}\r\ncanvas {display: block;}"]}
